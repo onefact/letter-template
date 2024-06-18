@@ -1,8 +1,8 @@
 [package]
 name = "datathinking-report"
 version = "1.0.0"
-entrypoint = "template.typ"
-authors = ["One Fact Street Team hello@onefact.org"]
+entrypoint = "example-document-on-letterhead.typ"
+authors = ["One Fact Street Team <mailto:hello@onefact.org>"]
 license = "Apache-2.0"
 description = "A template for letters and experience reports for the foundation"
 categories = ["Academic", "Letter", "Report"]
