@@ -7,6 +7,7 @@ license = "Apache-2.0"
 description = "A template for letters and experience reports for the foundation"
 categories = ["Academic", "Letter", "Report"]
 repository = "https://github.com/onefact/letterhead-template"
+
 [template]
 path = "template"
 entrypoint = "example-document-on-letterhead.typ"
